@@ -11,7 +11,7 @@ top to row 4 at the bottom and the columns start from column ’a’ as the left
 are placed at rows 3 and 4.
 
 ## Algorithm
-The AI plays the game using alpha-beta algotithm with pruning. To balance response and performance,
+The AI plays the game using alpha-beta pruning. To balance response and performance,
 I used the algorithm up to a depth of 4. This algorithm plays the game as player WHITE. 
 
 ## Performance
